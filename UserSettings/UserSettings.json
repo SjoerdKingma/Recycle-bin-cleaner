@@ -1,0 +1,12 @@
+{
+  "UserSettings": {
+    "FilesToDelete": [
+      "sample file1.txt",
+      "sample file2.zip",
+      "sample folder" 
+    ],
+    "CaseSensitiveFilenames": "True",
+    "IncludesFileExtension": "True",
+    "LogDeletedFilenames": "True"
+  }
+}
